@@ -3,7 +3,7 @@
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/ankitsharmakaushik/)
 [<img alt="Gmail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width="25px">](mailto:2698ankitsharma@gmail.com)
-[<img align="right" alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/2698/)
+[<img align="right" alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/Hashcode-Ankit/)
 <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
