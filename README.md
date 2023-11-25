@@ -1,5 +1,5 @@
-<h1 align="center">😉 Hi- Welcome to world Of Codes</h1>
-<h3 align="center">I'm Ankit Sharma CS Undergrad</h3>
+<h1 align="center">😉 Hi,  </h1>
+<h3 align="center">I'm Ankit Sharma CS Grad</h3>
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/ankitsharmakaushik/)
 [<img alt="Gmail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width="25px">](mailto:2698ankitsharma@gmail.com)
@@ -9,9 +9,10 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+- ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -23,6 +24,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Clickhouse](https://img.shields.io/badge/-Clickhouse-333333?style=flat&logo=clickhouse)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
